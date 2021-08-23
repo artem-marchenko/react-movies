@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reacr-movies/static/css/main.5c62c4da.chunk.css",
+    "main.js": "/reacr-movies/static/js/main.1a3dd393.chunk.js",
+    "main.js.map": "/reacr-movies/static/js/main.1a3dd393.chunk.js.map",
+    "runtime-main.js": "/reacr-movies/static/js/runtime-main.52aea502.js",
+    "runtime-main.js.map": "/reacr-movies/static/js/runtime-main.52aea502.js.map",
+    "static/js/2.68953819.chunk.js": "/reacr-movies/static/js/2.68953819.chunk.js",
+    "static/js/2.68953819.chunk.js.map": "/reacr-movies/static/js/2.68953819.chunk.js.map",
+    "index.html": "/reacr-movies/index.html",
+    "static/css/main.5c62c4da.chunk.css.map": "/reacr-movies/static/css/main.5c62c4da.chunk.css.map",
+    "static/js/2.68953819.chunk.js.LICENSE.txt": "/reacr-movies/static/js/2.68953819.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52aea502.js",
+    "static/js/2.68953819.chunk.js",
+    "static/css/main.5c62c4da.chunk.css",
+    "static/js/main.1a3dd393.chunk.js"
+  ]
+}
